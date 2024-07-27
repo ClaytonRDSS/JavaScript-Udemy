@@ -1,0 +1,6 @@
+função anonima.
+ const textoNoConsole = function() {
+	console.log("Texto no Console!");
+}
+
+ textoNoConsole();
