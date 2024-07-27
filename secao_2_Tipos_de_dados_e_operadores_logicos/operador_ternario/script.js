@@ -1,0 +1,1 @@
+console.log(5 < 2 ? "è sim" : "é não"); // O operador ternário(?), compara a expressão atravez de uma condição e devolve uma resposta.
