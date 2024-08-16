@@ -1,0 +1,4 @@
+ - Uma forma de programar, que utiliza os objetos como seu principal princípio;
+ - Alem de utilizar conceitos de técnicas que envolve Objetos;
+ - A maioria dos Software, na parte de Back-end, são desenvolvidos em cima desse paradigma;
+ - Grandes framework aproveitam desta técnica: Laravel, Django, Pyton, java e etc. 
